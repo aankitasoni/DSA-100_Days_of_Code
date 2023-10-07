@@ -22,3 +22,6 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 6
   <a href="https://leetcode.com/problems/add-binary/">67. Add Binary</a>
+
+### Day 7
+  <a href="https://leetcode.com/problems/single-number/">136. Single Number</a><p>
