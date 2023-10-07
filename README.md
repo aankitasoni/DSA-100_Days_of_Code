@@ -19,3 +19,6 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 5
   <a href="https://leetcode.com/problems/majority-element-ii/">229. Majority Element II</a><p>
+
+### Day 6
+  <a href="https://leetcode.com/problems/add-binary/">67. Add Binary</a>
