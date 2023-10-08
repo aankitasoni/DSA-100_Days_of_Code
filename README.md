@@ -26,3 +26,14 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 7
   <a href="https://leetcode.com/problems/single-number/">136. Single Number</a><p>
   <a href="https://leetcode.com/problems/single-number-ii/">137. Single Number II</a>
+
+### Day 8
+  <a href="https://leetcode.com/problems/search-insert-position/">35. Search Insert Position</a><p>
+  <a href="https://leetcode.com/problems/multiply-strings/">43. Multiply Strings</a>
+
+
+
+
+
+
+
