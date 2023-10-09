@@ -31,7 +31,9 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/search-insert-position/">35. Search Insert Position</a><p>
   <a href="https://leetcode.com/problems/multiply-strings/">43. Multiply Strings</a>
 
-
+### Day 9
+  <a href="https://leetcode.com/problems/find-target-indices-after-sorting-array/">2089. Find Target Indices After Sorting Array</a><p>
+  <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">34. Find First and Last Position of Element in Sorted Array</a>
 
 
 
