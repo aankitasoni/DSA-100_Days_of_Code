@@ -33,7 +33,10 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 9
   <a href="https://leetcode.com/problems/find-target-indices-after-sorting-array/">2089. Find Target Indices After Sorting Array</a><p>
-  <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">34. Find First and Last Position of Element in Sorted Array</a>
+  <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">34. Find First and Last Position of Element in Sorted Array</a><p>
+  <a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/">1752. Check if Array Is Sorted and Rotated</a>
+
+### Day 10
 
 
 
