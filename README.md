@@ -37,7 +37,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/">1752. Check if Array Is Sorted and Rotated</a>
 
 ### Day 10
-
+  <a href="https://leetcode.com/problems/climbing-stairs/">70. Climbing Stairs</a><p>
+  
 
 
 
