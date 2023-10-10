@@ -38,6 +38,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 10
   <a href="https://leetcode.com/problems/climbing-stairs/">70. Climbing Stairs</a><p>
+  <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">26. Remove Duplicates from Sorted Array</a>
   
 
 
