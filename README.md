@@ -46,3 +46,4 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"> Left Rotate an Array by One<a>
 
 ### Day 12
+  <a href="https://leetcode.com/problems/move-zeroes/">283. Move Zeroes</a><p>
