@@ -42,8 +42,13 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   
 ### Day 11
   <a href="https://leetcode.com/problems/rotate-array/">189. Rotate Array</a><p>
-  <a href="https://www.codingninjas.com/studio/problems/rotate-array_1230543?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0"> Rotate array<a><p>
-  <a href="https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"> Left Rotate an Array by One<a>
+  <a href="https://www.codingninjas.com/studio/problems/rotate-array_1230543?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0"> Rotate array (Coding Ninja)<a><p>
+  <a href="https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"> Left Rotate an Array by One (Coding Ninja)<a>
 
 ### Day 12
   <a href="https://leetcode.com/problems/move-zeroes/">283. Move Zeroes</a><p>
+  <a href="https://www.codingninjas.com/studio/problems/linear-search_6922070?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0"> Linear Search (Coding Ninja)<a><p>
+  
+
+
+  
