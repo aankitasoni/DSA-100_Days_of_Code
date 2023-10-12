@@ -37,3 +37,11 @@ rotate 2 steps to the right: [3,99,-1,-100]
 	<li>Could you do it in-place with <code>O(1)</code> extra space?</li>
 </ul>
 </div>
+
+<hr>
+
+ <a href="https://www.codingninjas.com/studio/problems/rotate-array_1230543?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0"> Rotate array<a><p>
+
+<hr>
+
+  <a href="https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"> Left Rotate an Array by One<a>
