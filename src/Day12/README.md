@@ -25,3 +25,6 @@
 
 <h2><a href="https://www.codingninjas.com/studio/problems/linear-search_6922070?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0"> Linear Search (Coding Ninja)<a></h2><p>
   
+<hr>
+
+<h2><a href="https://www.codingninjas.com/studio/problems/sorted-array_6613259?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0"> Merge 2 Sorted Array (Coding Ninja)<a></h2><p>
