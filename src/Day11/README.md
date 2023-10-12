@@ -40,8 +40,8 @@ rotate 2 steps to the right: [3,99,-1,-100]
 
 <hr>
 
- <a href="https://www.codingninjas.com/studio/problems/rotate-array_1230543?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0"> Rotate array<a><p>
+ <h2><a href="https://www.codingninjas.com/studio/problems/rotate-array_1230543?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0"> Rotate array<a></h2><p>
 
 <hr>
 
-  <a href="https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"> Left Rotate an Array by One<a>
+  <h2><a href="https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"> Left Rotate an Array by One<a></h2>

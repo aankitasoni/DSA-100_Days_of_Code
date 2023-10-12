@@ -23,5 +23,5 @@
 
 <hr> 
 
-<a href="https://www.codingninjas.com/studio/problems/linear-search_6922070?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0"> Linear Search (Coding Ninja)<a><p>
+<h2><a href="https://www.codingninjas.com/studio/problems/linear-search_6922070?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0"> Linear Search (Coding Ninja)<a></h2><p>
   
