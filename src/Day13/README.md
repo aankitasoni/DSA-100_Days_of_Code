@@ -26,3 +26,5 @@
 
 <hr>
 
+<h2><a href="https://www.codingninjas.com/studio/problems/intersection-of-2-arrays_1082149?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_Arrayproblems&leftPanelTab=0"> Intersection Of Two Sorted Arrays (Coding Ninja)</a><p>
+</h2>
