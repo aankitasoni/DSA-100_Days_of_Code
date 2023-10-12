@@ -48,6 +48,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 12
   <a href="https://leetcode.com/problems/move-zeroes/">283. Move Zeroes</a><p>
   <a href="https://www.codingninjas.com/studio/problems/linear-search_6922070?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0"> Linear Search (Coding Ninja)<a><p>
+  <a href="https://www.codingninjas.com/studio/problems/sorted-array_6613259?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0"> Merge 2 Sorted Array (Coding Ninja)<a>
   
 
 
