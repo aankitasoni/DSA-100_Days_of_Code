@@ -20,3 +20,8 @@
 
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Could you minimize the total number of operations done?</div>
+
+<hr> 
+
+<a href="https://www.codingninjas.com/studio/problems/linear-search_6922070?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0"> Linear Search (Coding Ninja)<a><p>
+  
