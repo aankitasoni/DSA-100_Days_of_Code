@@ -53,5 +53,6 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 13
   <a href="https://leetcode.com/problems/intersection-of-two-arrays/">349. Intersection of Two Arrays</a><p>
   <a href="https://www.codingninjas.com/studio/problems/intersection-of-2-arrays_1082149?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_Arrayproblems&leftPanelTab=0"> Intersection Of Two Sorted Arrays (Coding Ninja)</a><p>
+  <a href="https://leetcode.com/problems/intersection-of-two-arrays-ii/">350. Intersection of Two Arrays II</a><p>
   
   
