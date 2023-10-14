@@ -59,4 +59,5 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
  <a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">540. Single Element in a Sorted Array</a><p>
  <a href="https://leetcode.com/problems/max-consecutive-ones/">485. Max Consecutive Ones</a><p>
 
- 
+### Day 15
+  <a href="https://leetcode.com/problems/consecutive-characters/">1446. Consecutive Characters</a><p>
