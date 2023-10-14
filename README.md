@@ -57,6 +57,6 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   
 ### Day 14
  <a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">540. Single Element in a Sorted Array</a><p>
- 
+ <a href="https://leetcode.com/problems/max-consecutive-ones/">485. Max Consecutive Ones</a><p>
 
  
