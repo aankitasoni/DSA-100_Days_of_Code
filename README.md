@@ -58,6 +58,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 14
  <a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">540. Single Element in a Sorted Array</a><p>
  <a href="https://leetcode.com/problems/max-consecutive-ones/">485. Max Consecutive Ones</a><p>
+ <a href ="https://www.codingninjas.com/studio/problems/sort-an-array-of-0s-1s-and-2s_892977?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0"> Sort An Array of 0s, 1s and 2s (Coding Ninja)</a>
 
 ### Day 15
   <a href="https://leetcode.com/problems/consecutive-characters/">1446. Consecutive Characters</a><p>
