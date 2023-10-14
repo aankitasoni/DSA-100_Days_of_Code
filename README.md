@@ -55,4 +55,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://www.codingninjas.com/studio/problems/intersection-of-2-arrays_1082149?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_Arrayproblems&leftPanelTab=0"> Intersection Of Two Sorted Arrays (Coding Ninja)</a><p>
   <a href="https://leetcode.com/problems/intersection-of-two-arrays-ii/">350. Intersection of Two Arrays II</a><p>
   
-  
+### Day 14
+ <a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">540. Single Element in a Sorted Array</a><p>
+ <a href="https://leetcode.com/problems/max-consecutive-ones/">485. Max Consecutive Ones</a><p>
+
+ 
