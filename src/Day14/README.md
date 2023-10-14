@@ -47,3 +47,8 @@
 	<li><code>nums[i]</code> is either <code>0</code> or <code>1</code>.</li>
 </ul>
 </div>
+
+<hr>
+
+<h2><a href ="https://www.codingninjas.com/studio/problems/sort-an-array-of-0s-1s-and-2s_892977?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0"> Sort An Array of 0s, 1s and 2s (Coding Ninja)</a>
+</h2>
