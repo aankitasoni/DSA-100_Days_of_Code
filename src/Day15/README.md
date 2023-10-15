@@ -55,3 +55,8 @@ Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
 	<li><code>0 &lt;= k &lt;= nums.length</code></li>
 </ul>
 </div>
+
+<hr>
+
+<h2>
+  <a href = "https://www.codingninjas.com/studio/problems/traffic_6682625?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"> Traffic (Coding Ninja)</a></h2>
