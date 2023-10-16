@@ -64,3 +64,9 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/consecutive-characters/">1446. Consecutive Characters</a><p>
   <a href="https://leetcode.com/problems/max-consecutive-ones-iii/">1004. Max Consecutive Ones III</a><p>
   <a href = "https://www.codingninjas.com/studio/problems/traffic_6682625?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"> Traffic (Coding Ninja)</a>
+
+### Day 16
+  <a href="https://leetcode.com/problems/largest-odd-number-in-string/">1903. Largest Odd Number in String</a><p>
+  <ahref = "https://www.codingninjas.com/studio/problems/reverse-words-in-a-string_696444?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0">Reverse Words In A String (Coding Ninja)</a>
+
+
