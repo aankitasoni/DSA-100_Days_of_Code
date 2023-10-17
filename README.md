@@ -69,4 +69,10 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/largest-odd-number-in-string/">1903. Largest Odd Number in String</a><p>
   <a href = "https://www.codingninjas.com/studio/problems/reverse-words-in-a-string_696444?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0">Reverse Words In A String (Coding Ninja)</a>
 
+### Day 17
+  <a href="https://leetcode.com/problems/concatenation-of-array/">1929. Concatenation of Array</a><p>
+  
+
+
+  
 
