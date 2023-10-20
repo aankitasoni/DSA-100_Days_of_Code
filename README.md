@@ -78,6 +78,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 19
   <a href="https://leetcode.com/problems/find-pivot-index/">724. Find Pivot Index</a><p>
+  <a href="https://leetcode.com/problems/find-the-pivot-integer/">2485. Find the Pivot Integer</a>
 
 ### Day 20
   
