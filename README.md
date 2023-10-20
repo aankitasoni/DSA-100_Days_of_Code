@@ -76,3 +76,11 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/subarray-product-less-than-k/">713. Subarray Product Less Than K</a><p>
   <a href="https://leetcode.com/problems/subarray-sum-equals-k/">560. Subarray Sum Equals K</a>
 
+### Day 19
+  <a href="https://leetcode.com/problems/find-pivot-index/">724. Find Pivot Index</a><p>
+  <a href="https://leetcode.com/problems/find-the-pivot-integer/">2485. Find the Pivot Integer</a>
+
+### Day 20
+  
+  
+
