@@ -7,11 +7,11 @@ public class Pivot_Index {
         for (int i : nums){
             t += i;
         }
-        for (int i =0; i< nums.length;l += nums[i++]){
-            // l += nums[i++];
+        for (int i =0; i< nums.length;i++){
             if (2*l == t - nums[i]){
                 System.out.println(i);
             }
+            l+= nums[i];
         }
         System.out.println("-1");
     }
