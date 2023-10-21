@@ -86,3 +86,4 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 21
   <a href="https://leetcode.com/problems/distribute-candies/">575. Distribute Candies</a><p>
+  <a href="https://leetcode.com/problems/convert-a-number-to-hexadecimal/">405. Convert a Number to Hexadecimal</a>
