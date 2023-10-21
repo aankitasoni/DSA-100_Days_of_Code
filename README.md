@@ -84,3 +84,5 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/">1342. Number of Steps to Reduce a Number to Zero</a><p>
   <a href="https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/">2357. Make Array Zero by Subtracting Equal Amounts</a><p>
 
+### Day 21
+  <a href="https://leetcode.com/problems/distribute-candies/">575. Distribute Candies</a><p>
