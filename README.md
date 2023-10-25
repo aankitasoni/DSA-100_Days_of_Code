@@ -71,6 +71,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 17
   <a href="https://leetcode.com/problems/concatenation-of-array/">1929. Concatenation of Array</a><p>
+  <a href="https://leetcode.com/problems/reducing-dishes/">1402. Reducing Dishes</a>
   
 ### Day 18
   <a href="https://leetcode.com/problems/subarray-product-less-than-k/">713. Subarray Product Less Than K</a><p>
@@ -84,3 +85,9 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/">1342. Number of Steps to Reduce a Number to Zero</a><p>
   <a href="https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/">2357. Make Array Zero by Subtracting Equal Amounts</a><p>
 
+### Day 21
+  <a href="https://leetcode.com/problems/distribute-candies/">575. Distribute Candies</a><p>
+  <a href="https://leetcode.com/problems/convert-a-number-to-hexadecimal/">405. Convert a Number to Hexadecimal</a>
+
+### Day 22
+  
