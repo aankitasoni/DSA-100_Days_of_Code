@@ -98,4 +98,5 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 
 ### Day 26
-  <a href="https://leetcode.com/problems/self-dividing-numbers/">728. Self Dividing Numbers</a>
+  <a href="https://leetcode.com/problems/self-dividing-numbers/">728. Self Dividing Numbers</a><p>
+  <a href="https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/">2283. Check if Number Has Equal Digit Count and Digit Value</a>
