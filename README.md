@@ -93,6 +93,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/fibonacci-number/">509. Fibonacci Number</a>
 
 ### Day 23
+  <a href="https://leetcode.com/problems/count-the-digits-that-divide-a-number/">2520. Count the Digits That Divide a Number</a>
+  
 ### Day 24
 ### Day 25
 
