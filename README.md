@@ -22,7 +22,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/separate-the-digits-in-an-array/">2553. Separate the Digits in an Array</a>
 
 ### Day 6
-  <a href="https://leetcode.com/problems/add-binary/">67. Add Binary</a>
+  <a href="https://leetcode.com/problems/add-binary/">67. Add Binary</a><p>
+  <a href="https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/">2414. Length of the Longest Alphabetical Continuous Substring</a>
 
 ### Day 7
   <a href="https://leetcode.com/problems/single-number/">136. Single Number</a><p>
