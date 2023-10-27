@@ -96,7 +96,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/count-the-digits-that-divide-a-number/">2520. Count the Digits That Divide a Number</a>
   
 ### Day 24
-
+  <a href="https://leetcode.com/problems/alternating-digit-sum/">2544. Alternating Digit Sum</a>
 
 ### Day 25
   <a href="https://leetcode.com/problems/happy-number/">202. Happy Number</a>
@@ -107,3 +107,4 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 27
   <a href="https://leetcode.com/problems/sum-of-digits-of-string-after-convert/">1945. Sum of Digits of String After Convert</a><p>
+  <a href="https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/">2535. Difference Between Element Sum and Digit Sum of an Array</a>
