@@ -96,9 +96,14 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/count-the-digits-that-divide-a-number/">2520. Count the Digits That Divide a Number</a>
   
 ### Day 24
-### Day 25
 
+
+### Day 25
+  <a href="https://leetcode.com/problems/happy-number/">202. Happy Number</a>
 
 ### Day 26
   <a href="https://leetcode.com/problems/self-dividing-numbers/">728. Self Dividing Numbers</a><p>
   <a href="https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/">2283. Check if Number Has Equal Digit Count and Digit Value</a>
+
+### Day 27
+  <a href="https://leetcode.com/problems/sum-of-digits-of-string-after-convert/">1945. Sum of Digits of String After Convert</a><p>
