@@ -96,7 +96,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/count-the-digits-that-divide-a-number/">2520. Count the Digits That Divide a Number</a>
   
 ### Day 24
-  <a href="https://leetcode.com/problems/alternating-digit-sum/">2544. Alternating Digit Sum</a>
+  <a href="https://leetcode.com/problems/alternating-digit-sum/">2544. Alternating Digit Sum</a><p>
+  <a href="https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/">2177. Find Three Consecutive Integers That Sum to a Given Number</a>
 
 ### Day 25
   <a href="https://leetcode.com/problems/happy-number/">202. Happy Number</a><p>
