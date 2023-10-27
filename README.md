@@ -113,3 +113,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 27
   <a href="https://leetcode.com/problems/sum-of-digits-of-string-after-convert/">1945. Sum of Digits of String After Convert</a><p>
   <a href="https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/">2535. Difference Between Element Sum and Digit Sum of an Array</a>
+
+### Day 28
+   <a href="https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/">1456. Maximum Number of Vowels in a Substring of Given Length</a><p>
+
