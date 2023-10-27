@@ -99,7 +99,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/alternating-digit-sum/">2544. Alternating Digit Sum</a>
 
 ### Day 25
-  <a href="https://leetcode.com/problems/happy-number/">202. Happy Number</a>
+  <a href="https://leetcode.com/problems/happy-number/">202. Happy Number</a><p>
+  <a href="https://leetcode.com/problems/count-integers-with-even-digit-sum/">2180. Count Integers With Even Digit Sum</a>
 
 ### Day 26
   <a href="https://leetcode.com/problems/self-dividing-numbers/">728. Self Dividing Numbers</a><p>
