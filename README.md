@@ -94,7 +94,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 23
   <a href="https://leetcode.com/problems/count-the-digits-that-divide-a-number/">2520. Count the Digits That Divide a Number</a><p>
-  <h2><a href="https://leetcode.com/problems/longest-consecutive-sequence/">128. Longest Consecutive Sequence</a>
+  <a href="https://leetcode.com/problems/longest-consecutive-sequence/">128. Longest Consecutive Sequence</a>
   
 ### Day 24
   <a href="https://leetcode.com/problems/alternating-digit-sum/">2544. Alternating Digit Sum</a><p>
