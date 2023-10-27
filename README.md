@@ -19,6 +19,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 5
   <a href="https://leetcode.com/problems/majority-element-ii/">229. Majority Element II</a><p>
+  <a href="https://leetcode.com/problems/separate-the-digits-in-an-array/">2553. Separate the Digits in an Array</a>
 
 ### Day 6
   <a href="https://leetcode.com/problems/add-binary/">67. Add Binary</a>
