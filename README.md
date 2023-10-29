@@ -92,7 +92,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/convert-a-number-to-hexadecimal/">405. Convert a Number to Hexadecimal</a>
 
 ### Day 22
-  <a href="https://leetcode.com/problems/fibonacci-number/">509. Fibonacci Number</a>
+  <a href="https://leetcode.com/problems/fibonacci-number/">509. Fibonacci Number</a><p>
+  <a href="https://leetcode.com/problems/sign-of-the-product-of-an-array/">1822. Sign of the Product of an Array</a>
 
 ### Day 23
   <a href="https://leetcode.com/problems/count-the-digits-that-divide-a-number/">2520. Count the Digits That Divide a Number</a><p>
