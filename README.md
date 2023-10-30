@@ -122,3 +122,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 29
   <a href="https://leetcode.com/problems/find-the-array-concatenation-value/">2562. Find the Array Concatenation Value</a><p>
   
+### Day 30
+  <a href="https://leetcode.com/problems/excel-sheet-column-number/">171. Excel Sheet Column Number</a><p>
+  
+
+  
