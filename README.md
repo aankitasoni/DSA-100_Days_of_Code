@@ -125,7 +125,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   
 ### Day 30
   <a href="https://leetcode.com/problems/excel-sheet-column-number/">171. Excel Sheet Column Number</a><p>
-
+  <a href="https://leetcode.com/problems/reverse-integer/">7. Reverse Integer</a>
+  
 ### Day 31
   
   
