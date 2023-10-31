@@ -128,7 +128,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/reverse-integer/">7. Reverse Integer</a>
   
 ### Day 31
-  
-  
+  <a href="https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/">2442. Count Number of Distinct Integers After Reverse Operations</a><p>
+  <a href="https://leetcode.com/problems/find-the-original-array-of-prefix-xor/">2433. Find The Original Array of Prefix Xor</a>
 
   
