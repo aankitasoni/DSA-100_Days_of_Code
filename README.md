@@ -132,4 +132,10 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/find-the-original-array-of-prefix-xor/">2433. Find The Original Array of Prefix Xor</a><p>
   <a href="https://leetcode.com/problems/number-of-ways-to-split-array/">2270. Number of Ways to Split Array</a>
 
+### Day 32
+  <a href="https://leetcode.com/problems/apply-operations-to-an-array/">2460. Apply Operations to an Array</a><p>
+
+### Day 33
   
+
+
