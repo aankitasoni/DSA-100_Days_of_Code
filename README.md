@@ -136,6 +136,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/apply-operations-to-an-array/">2460. Apply Operations to an Array</a><p>
 
 ### Day 33
-  
+  <a href="https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/">1780. Check if Number is a Sum of Powers of Three</a>
 
+### Day 34
+  
 
