@@ -140,4 +140,9 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 34
   <a href="https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/">2859. Sum of Values at Indices With K Set Bits</a><p>
+  <a href="https://leetcode.com/problems/find-the-maximum-achievable-number/">2769. Find the Maximum Achievable Number</a>
+
+
+
+
 
