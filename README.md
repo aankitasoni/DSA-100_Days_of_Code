@@ -146,4 +146,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
  <a href="https://leetcode.com/problems/kth-largest-element-in-an-array/">215. Kth Largest Element in an Array</a>
 
 ### Day 36
+ <a href="https://leetcode.com/problems/third-maximum-number/">414. Third Maximum Number</a>
 
+
+ 
