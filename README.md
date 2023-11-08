@@ -152,9 +152,10 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
  <a href="https://leetcode.com/problems/sum-of-digits-in-base-k/">1837. Sum of Digits in Base K</a>
 
 ### Day 38
+<a href="https://www.codingninjas.com/studio/problems/n-forest_6570177?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems">N-Forest (Coding Ninja)</a>
 
 ### day 39
- 
+ <a href="https://leetcode.com/problems/largest-3-same-digit-number-in-string/">2264. Largest 3-Same-Digit Number in String</a>
 
 
  
