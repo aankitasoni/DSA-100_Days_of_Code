@@ -148,5 +148,13 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 36
  <a href="https://leetcode.com/problems/third-maximum-number/">414. Third Maximum Number</a>
 
+### Day 37
+ <a href="https://leetcode.com/problems/sum-of-digits-in-base-k/">1837. Sum of Digits in Base K</a>
+
+### Day 38
+
+### day 39
+ 
+
 
  
