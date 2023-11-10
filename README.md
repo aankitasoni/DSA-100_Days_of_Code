@@ -160,4 +160,6 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 40
  <a href="https://leetcode.com/problems/plus-one/">66. Plus One</a>
 
+### Day 41
+ <a href="https://leetcode.com/problems/neither-minimum-nor-maximum/">2733. Neither Minimum nor Maximum</a>
  
