@@ -167,3 +167,11 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
  <a href="https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/">1984. Minimum Difference Between Highest and Lowest of K Scores</a>
 
 ### Day 43
+### Day 44
+### Day 45
+### Day 46
+### Day 47
+### Day 49
+
+
+
