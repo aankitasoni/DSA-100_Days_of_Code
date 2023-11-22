@@ -176,5 +176,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 50
 ### Day 51
 
+### Day 52
+ <a href="https://leetcode.com/problems/count-and-say/">38. Count and Say</a>
 
 
