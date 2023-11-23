@@ -178,5 +178,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 52
  <a href="https://leetcode.com/problems/count-and-say/">38. Count and Say</a>
-
+ 
+### Day 53
+  <a href="https://leetcode.com/problems/divide-array-into-equal-pairs/">2206. Divide Array Into Equal Pairs</a>
 
