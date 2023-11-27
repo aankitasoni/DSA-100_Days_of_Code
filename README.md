@@ -188,7 +188,10 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/">1346. Check If N and Its Double Exist</a>
 
 ### Day 55
+  <a href="https://leetcode.com/problems/base-7/">504. Base 7</a>
+ 
 ### Day 56
+  <a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">1071. Greatest Common Divisor of Strings</a>
 
 ### Day 57
  <a href="https://leetcode.com/problems/find-greatest-common-divisor-of-array/">1979. Find Greatest Common Divisor of Array</a>
@@ -196,5 +199,5 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 58
  <a href="https://leetcode.com/problems/three-divisors/">1952. Three Divisors</a>
 
-
+### Day 59
 
