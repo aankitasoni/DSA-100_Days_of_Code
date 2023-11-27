@@ -189,8 +189,10 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 55
 ### Day 56
-### Day 57
 
+### Day 57
+ <a href="https://leetcode.com/problems/find-greatest-common-divisor-of-array/">1979. Find Greatest Common Divisor of Array</a>
+ 
 ### Day 58
  <a href="https://leetcode.com/problems/three-divisors/">1952. Three Divisors</a>
 
