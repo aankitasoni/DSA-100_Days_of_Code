@@ -167,14 +167,18 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
  <a href="https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/">1984. Minimum Difference Between Highest and Lowest of K Scores</a>
 
 ### Day 43
+ <a href="https://leetcode.com/problems/keep-multiplying-found-values-by-two/">2154. Keep Multiplying Found Values by Two</a>
+ 
 ### Day 44
 ### Day 45
 ### Day 46
 ### Day 47
 ### Day 48
 ### Day 49
-### Day 50
 
+### Day 50
+  <a href="https://leetcode.com/problems/total-hamming-distance/">477. Total Hamming Distance</a>
+  
 ### Day 51
   <a href="https://leetcode.com/problems/largest-number-at-least-twice-of-others/">747. Largest Number At Least Twice of Others</a>
   
@@ -201,3 +205,11 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 59
   <a href="https://leetcode.com/problems/rectangle-overlap/">836. Rectangle Overlap</a>
+
+### Day 60
+  <a href="https://leetcode.com/problems/hamming-distance/">461. Hamming Distance</a>
+
+
+
+
+  
