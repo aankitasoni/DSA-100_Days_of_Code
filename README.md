@@ -173,8 +173,10 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 47
 ### Day 48
 ### Day 49
-### Day 50
 
+### Day 50
+  <a href="https://leetcode.com/problems/total-hamming-distance/">477. Total Hamming Distance</a>
+  
 ### Day 51
   <a href="https://leetcode.com/problems/largest-number-at-least-twice-of-others/">747. Largest Number At Least Twice of Others</a>
   
@@ -201,3 +203,11 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 59
   <a href="https://leetcode.com/problems/rectangle-overlap/">836. Rectangle Overlap</a>
+
+### Day 60
+  <a href="https://leetcode.com/problems/hamming-distance/">461. Hamming Distance</a>
+
+
+
+
+  
