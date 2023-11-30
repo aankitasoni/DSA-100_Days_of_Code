@@ -170,7 +170,11 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
  <a href="https://leetcode.com/problems/keep-multiplying-found-values-by-two/">2154. Keep Multiplying Found Values by Two</a>
  
 ### Day 44
+ <a href="https://leetcode.com/problems/binary-number-with-alternating-bits/">693. Binary Number with Alternating Bits</a>
+  
 ### Day 45
+ <a href="https://leetcode.com/problems/sum-of-number-and-its-reverse/">2443. Sum of Number and Its Reverse</a>
+ 
 ### Day 46
 ### Day 47
 ### Day 48
