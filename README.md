@@ -179,6 +179,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
  <a href="https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/">762. Prime Number of Set Bits in Binary Representation</a>
 
 ### Day 47
+<a href="https://leetcode.com/problems/first-unique-character-in-a-string/">387. First Unique Character in a String</a>
+
 ### Day 48
 ### Day 49
 
