@@ -176,6 +176,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
  <a href="https://leetcode.com/problems/sum-of-number-and-its-reverse/">2443. Sum of Number and Its Reverse</a>
  
 ### Day 46
+ <a href="https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/">762. Prime Number of Set Bits in Binary Representation</a>
+
 ### Day 47
 ### Day 48
 ### Day 49
