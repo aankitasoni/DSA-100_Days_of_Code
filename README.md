@@ -221,7 +221,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/hamming-distance/">461. Hamming Distance</a>
 
 ### Day 61
-  <a href="https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/">2310. Sum of Numbers With Units Digit K</a>
+  <a href="https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/">2310. Sum of Numbers With Units Digit K</a><p>
+  <a href="https://leetcode.com/problems/maximum-ice-cream-bars/">1833. Maximum Ice Cream Bars</a>
 
 ### Day 62
   <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/">1662. Check If Two String Arrays are Equivalent</a><p>
