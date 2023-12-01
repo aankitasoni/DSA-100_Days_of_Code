@@ -218,7 +218,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/rectangle-overlap/">836. Rectangle Overlap</a>
 
 ### Day 60
-  <a href="https://leetcode.com/problems/hamming-distance/">461. Hamming Distance</a>
+  <a href="https://leetcode.com/problems/hamming-distance/">461. Hamming Distance</a><p>
+  <a href="https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/">1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence</a>
 
 ### Day 61
   <a href="https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/">2310. Sum of Numbers With Units Digit K</a><p>
