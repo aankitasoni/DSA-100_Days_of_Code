@@ -215,7 +215,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
  <a href="https://leetcode.com/problems/three-divisors/">1952. Three Divisors</a>
 
 ### Day 59
-  <a href="https://leetcode.com/problems/rectangle-overlap/">836. Rectangle Overlap</a>
+  <a href="https://leetcode.com/problems/rectangle-overlap/">836. Rectangle Overlap</a><p>
+  <a href="https://leetcode.com/problems/counting-words-with-a-given-prefix/">2185. Counting Words With a Given Prefix</a>
 
 ### Day 60
   <a href="https://leetcode.com/problems/hamming-distance/">461. Hamming Distance</a><p>
