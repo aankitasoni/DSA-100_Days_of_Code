@@ -223,5 +223,11 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 61
   <a href="https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/">2310. Sum of Numbers With Units Digit K</a>
 
+### Day 62
+  <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/">1662. Check If Two String Arrays are Equivalent</a>
+
+
+
+
 
   
