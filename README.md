@@ -185,7 +185,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
  <a href="https://leetcode.com/problems/percentage-of-letter-in-string/">2278. Percentage of Letter in String</a>
 
 ### Day 49
-
+ <a href="https://leetcode.com/problems/count-prefixes-of-a-given-string/">2255. Count Prefixes of a Given String</a>
 
 ### Day 50
   <a href="https://leetcode.com/problems/total-hamming-distance/">477. Total Hamming Distance</a>
