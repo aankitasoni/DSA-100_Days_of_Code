@@ -182,7 +182,10 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 <a href="https://leetcode.com/problems/first-unique-character-in-a-string/">387. First Unique Character in a String</a>
 
 ### Day 48
+ <a href="https://leetcode.com/problems/percentage-of-letter-in-string/">2278. Percentage of Letter in String</a>
+
 ### Day 49
+
 
 ### Day 50
   <a href="https://leetcode.com/problems/total-hamming-distance/">477. Total Hamming Distance</a>
