@@ -224,7 +224,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/">2310. Sum of Numbers With Units Digit K</a>
 
 ### Day 62
-  <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/">1662. Check If Two String Arrays are Equivalent</a>
+  <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/">1662. Check If Two String Arrays are Equivalent</a><p>
+  <a href="https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/">1961. Check If String Is a Prefix of Array</a>
 
 
 
