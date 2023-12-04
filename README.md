@@ -232,7 +232,10 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/">1662. Check If Two String Arrays are Equivalent</a><p>
   <a href="https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/">1961. Check If String Is a Prefix of Array</a>
 
+### Day 63
 
+### Day 64
+ <a href ="">2951. Find the Peaks</a>
 
 
 
