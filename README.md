@@ -243,7 +243,9 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 66
  <a href="https://leetcode.com/problems/to-lower-case/">709. To Lower Case</a><p>
+ <a href="https://leetcode.com/problems/distribute-money-to-maximum-children/">2591. Distribute Money to Maximum Children</a>
  
 ### Day 67
- <a href="https://leetcode.com/problems/capitalize-the-title/">2129. Capitalize the Title</a>
+ <a href="https://leetcode.com/problems/capitalize-the-title/">2129. Capitalize the Title</a><p>
+ <a href="https://leetcode.com/problems/calculate-money-in-leetcode-bank/">1716. Calculate Money in Leetcode Bank</a>
   
