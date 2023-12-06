@@ -235,7 +235,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 63
 
 ### Day 64
- <a href ="">2951. Find the Peaks</a>
+ <a href="https://leetcode.com/problems/find-the-peaks/">2951. Find the Peaks</a>
 
 ### Day 65
   <a href="https://leetcode.com/problems/number-of-segments-in-a-string/">434. Number of Segments in a String</a><p>
@@ -244,5 +244,6 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 66
  <a href="https://leetcode.com/problems/to-lower-case/">709. To Lower Case</a><p>
  
-
+### Day 67
+ <a href="https://leetcode.com/problems/capitalize-the-title/">2129. Capitalize the Title</a>
   
