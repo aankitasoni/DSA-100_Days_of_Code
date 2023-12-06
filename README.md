@@ -241,6 +241,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/number-of-segments-in-a-string/">434. Number of Segments in a String</a><p>
   <a href="https://leetcode.com/problems/score-of-parentheses/">856. Score of Parentheses</a>
 
-
+### Day 66
+ <a href="https://leetcode.com/problems/to-lower-case/">709. To Lower Case</a><p>
+ 
 
   
