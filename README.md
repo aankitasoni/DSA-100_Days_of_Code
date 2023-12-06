@@ -233,6 +233,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/">1961. Check If String Is a Prefix of Array</a>
 
 ### Day 63
+ <a href="https://leetcode.com/problems/distribute-candies-to-people/">1103. Distribute Candies to People</a><p>
+ 
 
 ### Day 64
  <a href="https://leetcode.com/problems/find-the-peaks/">2951. Find the Peaks</a><p>
@@ -250,3 +252,10 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
  <a href="https://leetcode.com/problems/capitalize-the-title/">2129. Capitalize the Title</a><p>
  <a href="https://leetcode.com/problems/calculate-money-in-leetcode-bank/">1716. Calculate Money in Leetcode Bank</a>
   
+### Day 68
+ 
+
+
+
+
+
