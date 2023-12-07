@@ -254,7 +254,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   
 ### Day 68
  <a href="https://leetcode.com/problems/find-words-containing-character/">2942. Find Words Containing Character</a><p>
-
+ <a href = "https://leetcode.com/problems/removing-stars-from-a-string/">2390. Removing Stars From a String</a>
 
 
 
