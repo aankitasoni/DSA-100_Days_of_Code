@@ -256,6 +256,10 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
  <a href="https://leetcode.com/problems/find-words-containing-character/">2942. Find Words Containing Character</a><p>
  <a href = "https://leetcode.com/problems/removing-stars-from-a-string/">2390. Removing Stars From a String</a>
 
+### Day 69
+<a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/">1846. Maximum Element After Decreasing and Rearranging</a><p>
+<a href="https://leetcode.com/problems/backspace-string-compare/">844. Backspace String Compare</a>
+
 
 
 
