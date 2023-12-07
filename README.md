@@ -253,8 +253,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
  <a href="https://leetcode.com/problems/calculate-money-in-leetcode-bank/">1716. Calculate Money in Leetcode Bank</a>
   
 ### Day 68
- 
-
+ <a href="https://leetcode.com/problems/find-words-containing-character/">2942. Find Words Containing Character</a><p>
+ <a href = "https://leetcode.com/problems/removing-stars-from-a-string/">2390. Removing Stars From a String</a>
 
 
 
