@@ -260,6 +260,20 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 <a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/">1846. Maximum Element After Decreasing and Rearranging</a><p>
 <a href="https://leetcode.com/problems/backspace-string-compare/">844. Backspace String Compare</a>
 
+### Day 70
 
+### Day 71
+
+### Day 72 - 11 dec
+
+### Day 73
+
+### Day 74
+
+### Day 75
+
+### Day 76 - 15 dec
+
+### Day 77 - 16 dec
 
 
