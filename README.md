@@ -264,7 +264,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 71
 
-### Day 72 - 11 dec
+### Day 72
  <a href="https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/">1287. Element Appearing More Than 25% In Sorted Array</a><p>
 
 ### Day 73
@@ -273,8 +273,10 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 75
 
-### Day 76 - 15 dec
+### Day 76
 
-### Day 77 - 16 dec
+### Day 77
+<a href="https://leetcode.com/problems/valid-anagram/">242. Valid Anagram</a><p>
+<a href="https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/">2273. Find Resultant Array After Removing Anagrams</a>
 
 
