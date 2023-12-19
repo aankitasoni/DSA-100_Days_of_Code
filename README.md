@@ -280,8 +280,11 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 <a href="https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/">2273. Find Resultant Array After Removing Anagrams</a>
 
 ### Day 78
+
+### Day 79
  <a href="https://leetcode.com/problems/maximum-product-difference-between-two-pairs/">1913. Maximum Product Difference Between Two Pairs</a><p>
 
-
+### Day 80
+ <a href="https://leetcode.com/problems/summary-ranges/">228. Summary Ranges</a><p>
 
  
