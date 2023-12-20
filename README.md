@@ -289,7 +289,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 81
 <a href="https://leetcode.com/problems/first-missing-positive/">41. First Missing Positive</a><p>
-
+<a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">448. Find All Numbers Disappeared in an Array</a>
 
 
 
