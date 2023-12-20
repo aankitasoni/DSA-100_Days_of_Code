@@ -287,4 +287,11 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 80
  <a href="https://leetcode.com/problems/summary-ranges/">228. Summary Ranges</a><p>
 
- 
+### Day 81
+<a href="https://leetcode.com/problems/first-missing-positive/">41. First Missing Positive</a><p>
+
+
+
+
+
+
