@@ -264,6 +264,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
  <a href="https://leetcode.com/problems/find-unique-binary-string/">1980. Find Unique Binary String</a><p>
 
 ### Day 71
+ <a href="https://leetcode.com/problems/buy-two-chocolates/">2706. Buy Two Chocolates</a><p>
 
 ### Day 72
  <a href="https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/">1287. Element Appearing More Than 25% In Sorted Array</a><p>
