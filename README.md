@@ -283,6 +283,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 <a href="https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/">2273. Find Resultant Array After Removing Anagrams</a>
 
 ### Day 78
+<a href="https://leetcode.com/problems/can-place-flowers/">605. Can Place Flowers</a><p>
 
 ### Day 79
  <a href="https://leetcode.com/problems/maximum-product-difference-between-two-pairs/">1913. Maximum Product Difference Between Two Pairs</a><p>
@@ -294,7 +295,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 <a href="https://leetcode.com/problems/first-missing-positive/">41. First Missing Positive</a><p>
 <a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">448. Find All Numbers Disappeared in an Array</a>
 
-
+### Day 82
+ <a href="https://leetcode.com/problems/teemo-attacking/">495. Teemo Attacking</a><p>
 
 
 
