@@ -299,5 +299,11 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
  <a href="https://leetcode.com/problems/teemo-attacking/">495. Teemo Attacking</a><p>
  <a href="https://leetcode.com/problems/remove-adjacent-almost-equal-characters/">2957. Remove Adjacent Almost-Equal Characters</a>
 
+### Day 83
+ <a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">1422. Maximum Score After Splitting a String</a><p>
 
+
+
+
+ 
 
