@@ -273,11 +273,13 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
  <a href="https://leetcode.com/problems/maximum-ascending-subarray-sum/">1800. Maximum Ascending Subarray Sum</a><p>
 
 ### Day 74
+ <a href="https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/">2839. Check if Strings Can be Made Equal With Operations I</a>
 
 ### Day 75
  <a href="https://leetcode.com/problems/valid-number/">65. Valid Number</a>
 
 ### Day 76
+ <a href="https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/">2086. Minimum Number of Food Buckets to Feed the Hamsters</a>
 
 ### Day 77
 <a href="https://leetcode.com/problems/valid-anagram/">242. Valid Anagram</a><p>
