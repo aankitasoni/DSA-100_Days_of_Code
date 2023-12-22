@@ -275,6 +275,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 74
 
 ### Day 75
+ <a href="https://leetcode.com/problems/valid-number/">65. Valid Number</a>
 
 ### Day 76
 
@@ -301,8 +302,10 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 83
  <a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">1422. Maximum Score After Splitting a String</a><p>
+ <a href="https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/">1758. Minimum Changes To Make Alternating Binary String</a>
 
-
+### Day 84
+ 
 
 
  
