@@ -297,6 +297,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 82
  <a href="https://leetcode.com/problems/teemo-attacking/">495. Teemo Attacking</a><p>
+ <a href="https://leetcode.com/problems/remove-adjacent-almost-equal-characters/">2957. Remove Adjacent Almost-Equal Characters</a>
 
 
 
