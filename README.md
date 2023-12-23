@@ -307,8 +307,9 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
  <a href="https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/">1758. Minimum Changes To Make Alternating Binary String</a>
 
 ### Day 84
- 
+  <a href="https://leetcode.com/problems/path-crossing/">1496. Path Crossing</a><p>
+  <a href="https://leetcode.com/problems/strong-password-checker-ii/">2299. Strong Password Checker II</a>
 
-
+### Day 85
  
 
