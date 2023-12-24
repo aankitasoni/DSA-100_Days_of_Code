@@ -271,6 +271,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 73
  <a href="https://leetcode.com/problems/maximum-ascending-subarray-sum/">1800. Maximum Ascending Subarray Sum</a><p>
+ <a href="https://leetcode.com/problems/validate-ip-address/">468. Validate IP Address</a>
 
 ### Day 74
  <a href="https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/">2839. Check if Strings Can be Made Equal With Operations I</a>
