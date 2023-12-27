@@ -317,8 +317,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 87
 
-
-
+### Day 88
+ <a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/">1578. Minimum Time to Make Rope Colorful</a><p>
 
 
 
