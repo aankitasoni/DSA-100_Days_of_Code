@@ -328,8 +328,9 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 92
  <a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters/">1624. Largest Substring Between Two Equal Characters</a><p>
+ <a href="https://leetcode.com/problems/find-subarrays-with-equal-sum/">2395. Find Subarrays With Equal Sum</a>
 
-
+### Day 93
 
 
 
