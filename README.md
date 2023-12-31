@@ -319,6 +319,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 88
  <a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/">1578. Minimum Time to Make Rope Colorful</a><p>
+ <a href="https://leetcode.com/problems/find-maximum-number-of-string-pairs/">2744. Find Maximum Number of String Pairs</a>
 
 ### Day 89
 
