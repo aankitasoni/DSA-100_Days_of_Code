@@ -334,9 +334,10 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 93
 <a href="https://leetcode.com/problems/assign-cookies/">455. Assign Cookies</a><p>
 
+### Day 94
+ <a href="https://leetcode.com/problems/maximum-number-of-words-you-can-type/">1935. Maximum Number of Words You Can Type</a>
 
-
-
+### Day 95
 
 
 
