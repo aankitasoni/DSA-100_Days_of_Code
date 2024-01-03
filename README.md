@@ -335,7 +335,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 <a href="https://leetcode.com/problems/assign-cookies/">455. Assign Cookies</a><p>
 
 ### Day 94
- <a href="https://leetcode.com/problems/maximum-number-of-words-you-can-type/">1935. Maximum Number of Words You Can Type</a>
+ <a href="https://leetcode.com/problems/maximum-number-of-words-you-can-type/">1935. Maximum Number of Words You Can Type</a><p>
+ <a href="https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1?page=1&category=Arrays&sprint=ca8ae412173dbd8346c26a0295d098fd&sortBy=submissions">Find minimum and maximum element in an array</a>
 
 ### Day 95
  <a href="https://leetcode.com/problems/set-matrix-zeroes/">73. Set Matrix Zeroes</a><p>
