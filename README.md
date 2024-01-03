@@ -312,6 +312,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
   <a href="https://leetcode.com/problems/strong-password-checker-ii/">2299. Strong Password Checker II</a>
 
 ### Day 85
+ <a href="https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1?page=1&category=Arrays&status=unsolved&sprint=ca8ae412173dbd8346c26a0295d098fd&sortBy=submissions">Maximum of all subarrays of size k</a>
  
 ### Day 86
 
