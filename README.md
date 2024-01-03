@@ -338,8 +338,11 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
  <a href="https://leetcode.com/problems/maximum-number-of-words-you-can-type/">1935. Maximum Number of Words You Can Type</a>
 
 ### Day 95
- <a href="https://leetcode.com/problems/set-matrix-zeroes/">73. Set Matrix Zeroes</a>
+ <a href="https://leetcode.com/problems/set-matrix-zeroes/">73. Set Matrix Zeroes</a><p>
+ <a href="https://www.geeksforgeeks.org/problems/smallest-window-containing-0-1-and-2--170637/1">Smallest window containing 0, 1 and 2</a>
 
+### Day 96
+<a href="https://www.geeksforgeeks.org/problems/find-element-occuring-once-when-all-other-are-present-thrice/1">Find element occuring once when all other are present thrice</a><p>
 
 
 
