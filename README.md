@@ -350,6 +350,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/">2870. Minimum Number of Operations to Make Array Empty</a>
 
 ### Day 97
+<a href="https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/">2481. Minimum Cuts to Divide a Circle</a>
+  
 ### Day 98
 ### Day 99
 ### Day 100 - 8 jan 24
