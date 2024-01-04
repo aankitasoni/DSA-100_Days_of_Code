@@ -345,7 +345,11 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 
 ### Day 96
 <a href="https://www.geeksforgeeks.org/problems/find-element-occuring-once-when-all-other-are-present-thrice/1">Find element occuring once when all other are present thrice</a><p>
+<a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/">2870. Minimum Number of Operations to Make Array Empty</a>
 
-
+### Day 97
+### Day 98
+### Day 99
+### Day 100 - 8 jan 24
 
 
