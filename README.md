@@ -318,7 +318,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 <a href="https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/">2244. Minimum Rounds to Complete All Tasks</a>
 
 ### Day 87
-
+ <a href="https://leetcode.com/problems/count-number-of-ways-to-place-houses/">2320. Count Number of Ways to Place Houses</a>
 
 ### Day 88
  <a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/">1578. Minimum Time to Make Rope Colorful</a><p>
