@@ -354,7 +354,13 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 <a href="https://www.geeksforgeeks.org/problems/count-possible-ways-to-construct-buildings5007/1">Count possible ways to construct buildings</a>
   
 ### Day 98
+<a href="https://www.geeksforgeeks.org/problems/techfest-and-the-queue1044/1">Techfest and the Queue</a><p>
+
 ### Day 99
+
+
 ### Day 100 - 8 jan 24
+
+
 
 
