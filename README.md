@@ -325,6 +325,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
  <a href="https://leetcode.com/problems/find-maximum-number-of-string-pairs/">2744. Find Maximum Number of String Pairs</a>
 
 ### Day 89
+<a href = "https://www.codingninjas.com/studio/problems/allocate-books_1090540?utm_source=youtube&utm_medium=affiliate&utm_campaign=codestudio_Striver_BinarySeries&leftPanelTabValue=PROBLEM">Allocate Books</a>
 
 ### Day 90
 
@@ -356,8 +357,9 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 98
 <a href="https://www.geeksforgeeks.org/problems/techfest-and-the-queue1044/1">Techfest and the Queue</a><p>
 
-### Day 99
 
+### Day 99
+<a href="https://leetcode.com/problems/split-array-largest-sum/">410. Split Array Largest Sum</a>
 
 ### Day 100 - 8 jan 24
 
