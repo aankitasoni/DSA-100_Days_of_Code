@@ -328,6 +328,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 <a href = "https://www.codingninjas.com/studio/problems/allocate-books_1090540?utm_source=youtube&utm_medium=affiliate&utm_campaign=codestudio_Striver_BinarySeries&leftPanelTabValue=PROBLEM">Allocate Books</a>
 
 ### Day 90
+<a href = "https://www.codingninjas.com/studio/guided-paths/data-structures-algorithms/content/607713/offering/9536703?goalRedirection=true">Linear Search</a><p>
+<a href = "https://www.codingninjas.com/studio/guided-paths/data-structures-algorithms/content/607713/offering/9536705?goalRedirection=true&leftPanelTabValue=PROBLEM">Largest Element in the Array</a>
 
 ### Day 91
 
