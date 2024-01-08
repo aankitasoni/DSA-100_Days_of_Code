@@ -360,12 +360,13 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 98
 <a href="https://www.geeksforgeeks.org/problems/techfest-and-the-queue1044/1">Techfest and the Queue</a><p>
 
-
 ### Day 99
 <a href="https://leetcode.com/problems/split-array-largest-sum/">410. Split Array Largest Sum</a>
 
 ### Day 100 
+<a href ="https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557?utm_source=youtube&utm_medium=affiliate&utm_campaign=codestudio_Striver_BinarySeries&leftPanelTabValue=PROBLEM"> Painter's Partition Problem</a><p>
 <a href="https://leetcode.com/problems/most-frequent-even-element/">2404. Most Frequent Even Element</a>
+
 
 
 
