@@ -332,6 +332,7 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 <a href = "https://www.codingninjas.com/studio/guided-paths/data-structures-algorithms/content/607713/offering/9536705?goalRedirection=true&leftPanelTabValue=PROBLEM">Largest Element in the Array</a>
 
 ### Day 91
+<a href ="https://www.codingninjas.com/studio/problems/majority-element_6915220?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_Arrayproblems&leftPanelTabValue=PROBLEM">Majority Element</a>
 
 ### Day 92
  <a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters/">1624. Largest Substring Between Two Equal Characters</a><p>
