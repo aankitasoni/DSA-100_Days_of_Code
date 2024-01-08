@@ -364,8 +364,8 @@ Accelerate DSA mastery through consistent practice and conceptual comprehension.
 ### Day 99
 <a href="https://leetcode.com/problems/split-array-largest-sum/">410. Split Array Largest Sum</a>
 
-### Day 100 - 8 jan 24
-
+### Day 100 
+<a href="https://leetcode.com/problems/most-frequent-even-element/">2404. Most Frequent Even Element</a>
 
 
 
